@@ -3,7 +3,7 @@
 ## how to run
 1. Make sure Vivado is installed on your device.
 2. Download the zip file.
-3. In folder, extract the zip file, then extract the Lab 5 zip file.
+3. In folder, extract the zip file, then extract the Lab 5 done zip file.
 4. Click on the Lab 5 Vivado Project File.
 5. Once Vivado opens, click on Open Hardware Manager under the Flow Navigator, and make sure to connect to the BASTS3 board.
 6 Once that is done, click on Program device.
